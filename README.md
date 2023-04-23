@@ -21,7 +21,8 @@ The following configuration is for testing the code:
 
 ```bash
 python3 hrd.py --algo astar --inputfile <input file> --outputfile <output file>
-python3 hrd.py --algo dfs --inputfile <input file> --outputfile <output file>
+python3 hrd.py --algo dfs --inputfile <input file> --outputfile <output file>```
+
 
 
 ## The Input and Output File Formats
