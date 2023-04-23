@@ -18,10 +18,11 @@ The goal is to move the pieces until the 2x2 piece is above the bottom opening (
 Implement DFS and A* Search to solve HuaRong puzzle
 The following configuration is for testing the code:
      To run the program, use one of the following command lines:
-
-```bash
+<pre>
+```
 python3 hrd.py --algo astar --inputfile <input file> --outputfile <output file>
-python3 hrd.py --algo dfs --inputfile <input file> --outputfile <output file>```
+python3 hrd.py --algo dfs --inputfile <input file> --outputfile <output file>
+</pre>
 
 
 
